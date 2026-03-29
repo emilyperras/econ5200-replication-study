@@ -30,6 +30,7 @@ For the extension, the same DiD framework is applied to price outcomes (soda, fr
 The main graph presents estimated price effects across different fast food chains following the minimum wage increase. Each point represents the estimated treatment effect, and the horizontal lines represent the corresponding confidence intervals.
 
 The key takeaway is that nearly all estimates are centered around zero. For example, the overall estimated change in soda prices is approximately -0.0001, and after incorporating additional controls, it remains near zero at +0.0004. Most chains show no meaningful change, while one chain (Wendy’s) shows a small decrease of about -0.05. This evidence indicates no consistent pattern of price increases following the policy.
+<img width="884" height="522" alt="Screenshot 2026-03-28 at 10 45 45 PM" src="https://github.com/user-attachments/assets/8a45674d-27d9-4f44-b0b7-ac879d493f47" />
 
 ---
 
