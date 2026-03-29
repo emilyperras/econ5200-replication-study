@@ -1,5 +1,3 @@
-# econ5200-replication-study
-
 # ECON 5200 — Replication Study and Extension, Emily Perras
 
 **Card, D., & Krueger, A. B. (1994)**  
